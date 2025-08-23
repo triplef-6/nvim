@@ -13,6 +13,8 @@ local servers = {
     "ts_ls", -- ts, js
     "clangd", -- c++
     "intelephense", -- php
+    "pyright", --python
+    "pylsp", --python
     -- "astg" -- c, c++, rust, go, java, python, c#, javascript, jsx, typescript, html, css, kotlin, dart, lua
     -- "javals",
     -- "bash-language-server",

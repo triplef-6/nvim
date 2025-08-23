@@ -6,13 +6,13 @@
 local M = {}
 
 M.base46 = {
-	theme = "yoru",
+	theme = "oxocarbon",
 
 	hl_override = {
 		Comment = { italic = true },
 		["@comment"] = { italic = true },
 	},
-     theme_toggle = { "yoru", "github_light" },
+     theme_toggle = { "oxocarbon", "github_light" },
 }
 
 M.nvdash = {
